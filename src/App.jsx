@@ -1,10 +1,10 @@
 import React from 'react'
-import RandomQuote from './ExerciseUseState/RandomQuote'
+import TemperatureConverter from './ExerciseUseState/TemperatureConverter'
 
 const App = () => {
   return (
     <div>
-      <RandomQuote />
+      <TemperatureConverter />
     </div>
   )
 }
