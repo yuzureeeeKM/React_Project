@@ -1,10 +1,10 @@
 import React from 'react'
-import LoginSimulation from './ExerciseUseState/LoginSimulation'
+import RandomQuote from './ExerciseUseState/RandomQuote'
 
 const App = () => {
   return (
     <div>
-      <LoginSimulation />
+      <RandomQuote />
     </div>
   )
 }
