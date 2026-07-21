@@ -1,12 +1,10 @@
 import React from 'react'
-import Counter from './ExerciseUseState/Counter'
-import Toggle from './ExerciseUseState/Toggle'
-import CharacterCounter from './ExerciseUseState/CharacterCounter'
+import FavoriteColor from './ExerciseUseState/FavoriteColor'
 
 const App = () => {
   return (
     <div>
-      <CharacterCounter />
+      <FavoriteColor />
     </div>
   )
 }
