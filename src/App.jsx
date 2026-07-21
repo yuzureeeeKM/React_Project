@@ -1,10 +1,11 @@
 import React from 'react'
 import Counter from './ExerciseUseState/Counter'
+import Toggle from './ExerciseUseState/Toggle'
 
 const App = () => {
   return (
     <div>
-      <Counter/>
+      <Toggle />
     </div>
   )
 }
