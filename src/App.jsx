@@ -1,10 +1,10 @@
 import React from 'react'
-import FavoriteColor from './ExerciseUseState/FavoriteColor'
+import LoginSimulation from './ExerciseUseState/LoginSimulation'
 
 const App = () => {
   return (
     <div>
-      <FavoriteColor />
+      <LoginSimulation />
     </div>
   )
 }
