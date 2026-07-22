@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import CharacterWarning from './UseStateUseEffect/CharacterWarning'
+import PageVisitCounter from './UseStateUseEffect/PageVisitCounter'
 
 const App = () => {
   return (
     <div>
-      <CharacterWarning />
+      <PageVisitCounter />
     </div>
   )
 }
