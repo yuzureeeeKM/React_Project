@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import ClickerTracker from './UseStateUseEffect/ClickerTracker'
+import LiveGreeting from './UseStateUseEffect/LiveGreeting'
 
 const App = () => {
   return (
     <div>
-      <ClickerTracker />
+      <LiveGreeting />
     </div>
   )
 }
