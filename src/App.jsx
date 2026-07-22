@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import DocumentTitle from './ExerciseUseEffect/DocumentTitle'
+import LoginGreeting from './ExerciseUseEffect/LoginGreeting'
 
 const App = () => {
   return (
     <div>
-      <DocumentTitle />
+      <LoginGreeting />
     </div>
   )
 }
