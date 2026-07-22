@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import ThemeToggle from './UseStateUseEffect/ThemeToggle'
+import CharacterWarning from './UseStateUseEffect/CharacterWarning'
 
 const App = () => {
   return (
     <div>
-      <ThemeToggle />
+      <CharacterWarning />
     </div>
   )
 }
