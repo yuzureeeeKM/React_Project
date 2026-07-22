@@ -1,10 +1,10 @@
 import React from 'react'
-import PasswordVisibility from './ExerciseUseState/PasswordVisibility'
+import RollDice from './ExerciseUseState/RollDice'
 
 const App = () => {
   return (
     <div>
-      <PasswordVisibility />
+      <RollDice />
     </div>
   )
 }
