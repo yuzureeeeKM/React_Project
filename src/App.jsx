@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import LoginGreeting from './ExerciseUseEffect/LoginGreeting'
+import EvenOrOdd from './ExerciseUseEffect/EvenOrOdd'
 
 const App = () => {
   return (
     <div>
-      <LoginGreeting />
+      <EvenOrOdd />
     </div>
   )
 }
