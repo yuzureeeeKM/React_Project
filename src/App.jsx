@@ -1,10 +1,10 @@
 import React from 'react'
-import TemperatureConverter from './ExerciseUseState/TemperatureConverter'
+import PasswordVisibility from './ExerciseUseState/PasswordVisibility'
 
 const App = () => {
   return (
     <div>
-      <TemperatureConverter />
+      <PasswordVisibility />
     </div>
   )
 }
