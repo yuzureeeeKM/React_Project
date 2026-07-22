@@ -1,10 +1,10 @@
-import React from 'react'
-import RollDice from './ExerciseUseState/RollDice'
+import React, { useEffect, useState } from 'react'
+import DocumentTitle from './ExerciseUseEffect/DocumentTitle'
 
 const App = () => {
   return (
     <div>
-      <RollDice />
+      <DocumentTitle />
     </div>
   )
 }
