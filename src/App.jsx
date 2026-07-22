@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import EvenOrOdd from './ExerciseUseEffect/EvenOrOdd'
+import ClickerTracker from './UseStateUseEffect/ClickerTracker'
 
 const App = () => {
   return (
     <div>
-      <EvenOrOdd />
+      <ClickerTracker />
     </div>
   )
 }
