@@ -1,10 +1,10 @@
 import React, { useEffect, useState } from 'react'
-import LiveGreeting from './UseStateUseEffect/LiveGreeting'
+import ThemeToggle from './UseStateUseEffect/ThemeToggle'
 
 const App = () => {
   return (
     <div>
-      <LiveGreeting />
+      <ThemeToggle />
     </div>
   )
 }
